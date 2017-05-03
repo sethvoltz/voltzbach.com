@@ -1,0 +1,28 @@
+.navigation {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  .item {
+    color: inherit;
+    padding: 10px;
+    display: block;
+
+    &:hover, &:active {
+      background-color: #bbb;
+
+      &.active {
+      }
+    }
+
+    &.active {
+      cursor: default;
+      background-color: #aaa;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  }
+}

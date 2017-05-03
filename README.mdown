@@ -1,0 +1,43 @@
+Wedding Website
+===============
+
+Setup
+-----
+
+```
+# Install dependencies
+brew install node yarn
+yarn
+
+# Start development server
+yarn start
+
+# Build a production release
+yarn build
+<TBD, release assets>
+```
+
+Tech
+----
+
+- React + router
+- Modernizr
+- OpenGraph / preview info
+
+Sections
+--------
+
+- Home
+- Festivities
+- Travel
+- Wedding Party
+- Photos
+- Registry
+- RSVP (future)
+
+Fonts
+-----
+
+- Cursive: Great Vibes - https://fonts.google.com/specimen/Great+Vibes
+- Header: Amatic - https://fonts.google.com/specimen/Amatic+SC
+- Body: Raleway - https://fonts.google.com/specimen/Raleway
