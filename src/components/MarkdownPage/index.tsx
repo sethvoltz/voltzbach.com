@@ -6,6 +6,8 @@ import { NotFound } from "../NotFound";
 import * as front from 'front-matter';
 import * as Markdown from 'react-remarkable';
 
+import './index.scss';
+
 export interface IMarkdownPageState {
   page?: string,
   found: boolean,
@@ -35,11 +37,10 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
 
   render() {
     const { body, attributes, found } = this.state
-    console.log('attributes', attributes);
 
-    if (!found) { return <NotFound />; }
-    if (body) { return <Markdown source={body} />; }
-    return <div>Loading...</div>;
+    return <div className="content">
+      {found ? (body ? <Markdown source={body} /> : <div>Loading...</div>) : <NotFound />}
+    </div>;
   }
 
   _loadData() {

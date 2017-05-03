@@ -1,0 +1,31 @@
+.page-home {
+  .hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .fancy-box {
+      position: relative;
+      top: 80px;
+      transform: rotate(-15deg);
+
+      .top-line, .second-line {
+        font-family: 'Great Vibes', cursive;
+      }
+
+      .top-line {
+        font-size: 80px;
+        margin: 0;
+      }
+
+      .second-line {
+        font-size: 55px;
+        margin: 0;
+        position: relative;
+        top: -37px;
+        left: 18px;
+      }
+    }
+  }
+}

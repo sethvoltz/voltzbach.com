@@ -20,10 +20,10 @@ export class App extends React.Component<AppProps, undefined> {
 
     return <div className='app'>
       <Router forceRefresh={!supportsHistory}>
-        <div>
+        <div className='app-inner'>
           <Navigation />
           <Switch>
-            <div className="content">
+            <div className="main">
               <Route exact={true} path="/" component={IndexPage} />
               {/* <Route path="/rsvp" component={RSVP} /> */}
               <Route path="/:page" component={MarkdownPage} />
