@@ -1,4 +1,9 @@
 .content {
-  max-width: 500px;
-  margin: 0 auto;
+  padding: 10px 10px 3em;;
+  background-color: rgba(0, 0, 0, 0.3);
+
+  > div {
+    max-width: 500px;
+    margin: 0 auto;
+  }
 }

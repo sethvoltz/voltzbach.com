@@ -1,6 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Great+Vibes|Raleway:400,700');
 
+html, body {
+  height: 100%;
+}
+
+body, #root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
 body {
+  background: url(/assets/images/background.jpg) no-repeat center center fixed;
+  background-size: cover;
   margin: 0;
   font-family: 'Raleway', sans-serif;
 }

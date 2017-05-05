@@ -33,7 +33,7 @@ Sections
 - Wedding Party
 - Photos
 - Registry
-- RSVP (future)
+- RSVP (future -- user enters word-password)
 
 Fonts
 -----

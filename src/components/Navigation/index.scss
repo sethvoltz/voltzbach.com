@@ -1,5 +1,12 @@
 .navigation {
-  background-color: #ddd;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  height: 3em;
+
+  background-color: rgba(0, 0, 0, .8);
   display: flex;
   justify-content: center;
   list-style: none;
@@ -8,11 +15,12 @@
 
   .item {
     color: inherit;
-    padding: 10px;
+    padding: 0 10px;
+    line-height: 3em;
     display: block;
 
     &:hover, &:active {
-      background-color: #bbb;
+      background-color: rgba(128, 128, 128, 0.4);
 
       &.active {
       }
@@ -20,7 +28,7 @@
 
     &.active {
       cursor: default;
-      background-color: #aaa;
+      background-color: rgba(128, 128, 128, 0.3);
       text-decoration: none;
       font-weight: bold;
     }

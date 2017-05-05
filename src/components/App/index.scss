@@ -1,8 +1,18 @@
 .app {
-  // background-color: #ddd;
+  color: #fff;
+
+  &, .app-inner, .main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
 
   .main {
-    padding: 10px;
+    flex: 1;
+
+    & > div {
+      flex: 1;
+    }
 
     h1, h2, h3, h4, h5, h6 {
       &:first-child {

@@ -46,7 +46,6 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
   _loadData() {
     fetch(`/content/${this.props.match.params.page}.md`)
       .then(res => {
-        console.log('result', res);
         if (res.status === 404) {
           throw new Error('No Content');
         }
