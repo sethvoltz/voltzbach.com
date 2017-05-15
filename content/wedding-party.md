@@ -6,7 +6,7 @@ title: Wedding Party
 
 ## Jamie Schwarzbach, Bride
 
-Grew up in Northridge, CA, where she excelled in chemistry and sports (what a great combo, huh?). Received a partial scholarship for track and field at UCSB, in Santa Barbara, where she received her BS in chemistry. She then attended graduate school at the University of Nevada Reno, studying organic chemistry. She enjoyed joining the Nevada Cycling Team, where she competed in mountain biking. All the while she graduated with her MS in chemistry and MBA. After moving to SF with her soon to be hubby, she’s mainly worked in life science companies in marketing and project management. Her favorite things: Snowboarding, biking, yoga, her two cats, looking at expensive real estate online, and anything chocolate.
+Grew up in Northridge, CA, where she excelled in chemistry and sports (what a great combo, huh?). She decided to attend UCSB because of her partial track and field scholarship, in Santa Barbara, where she graduated with her BS in chemistry. She then attended graduate school at the University of Nevada Reno, studying organic chemistry. She enjoyed joining the Nevada Cycling Team, where she competed in mountain biking. All the while she graduated with her MS in chemistry and MBA. After moving to SF with her soon to be hubby, she’s mainly worked in life science companies focusing on marketing and project management. Her favorite things: Snowboarding, biking, yoga, her two cats, looking at expensive real estate online, and anything chocolate.
 
 ## Seth Voltz, Groom
 
@@ -20,7 +20,7 @@ Sister of the Bride, met Jamie at birth, likes running, eating like a vegan, and
 
 **Patricia Bobek**
 
-BFF from UCSB, college roommates, lives in WeHo, likes biking, writing, and watching strange documentaries, fun fact: she is a cat lady who owns no cats
+BFF from UCSB, college roommates, lives in WeHo, likes biking, writing, and watching interesting & strange documentaries, fun fact: she is a cat lady who owns no cats
 
 **Rebecca Black**
 
