@@ -8,11 +8,14 @@ title: Wedding Registries
 
 https://www.macys.com/wgl/registry/guest/6775226 
 
+**Crate and Barrel**
+
+https://www.crateandbarrel.com/gift-registry/jamie-schwarzbach-and-seth-voltz/r5696409  
+
 **Honeyfund**
 
-https://www.honeyfund.com/wedding/Voltzbach
+https://www.honeyfund.com/wedding/Voltzbach  
 
-**Sur la Table**
 
 TBD
 
