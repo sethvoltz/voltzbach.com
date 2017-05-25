@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import './index.scss';
 
+import { ScrollToTop } from "../ScrollToTop";
 import { Navigation } from "../Navigation";
 import { IndexPage } from "../IndexPage";
 import { MarkdownPage } from "../MarkdownPage";
@@ -21,6 +22,7 @@ export class App extends React.Component<AppProps, undefined> {
     return <div className='app'>
       <Router forceRefresh={!supportsHistory}>
         <div className='app-inner'>
+          <ScrollToTop />
           <Navigation />
           <Switch>
             <div className="main">
