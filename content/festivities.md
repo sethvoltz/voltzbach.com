@@ -12,7 +12,7 @@ The Voltzbach’s
 
 ## Stuff you should know:
 
-**Wedding:**
+### Wedding
 
 **Sunday, May 6, 2018**  
 5-10pm  
@@ -20,33 +20,33 @@ Fairview Napa
 2295 Streblow Drive  
 Napa, CA 94558
 
-**Transportation:**
+### Transportation
 
 Day-of, shuttles will run from the Best Western Inn to the wedding venue & back. Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
 
-**Ceremony:**
+### Ceremony
 
 Outdoors, chairs on lawn. If all goes to plan, the weather should be sunny any warm, so plan on head cover. In the event of less favorable conditions, bring layers and for rain, there is an indoor backup plan.
 
-**Reception:**
+### Reception
 
 Outdoors: drinks, hors d’oeuvres & lawn games.
 Indoors: photo booth, dance floor, dinner & drinks.
 Expect to eat, drink & dance throughout the night.
 
-**Dress Code:**
+### Dress Code
 
 Dressy Casual, but don’t be afraid to show your inner nerd
 
-**Guests:**
+### Guests
 
 This is a 21+ Event. Please leave the little ones in the care of someone else. Enjoy  yourself!
 
-**After Wedding Brunch:**
+### After Wedding Brunch
 
 TBD
 
-### Be Sure to Read
+## Be Sure to Read
 
 1. Our wedding will be held on a public golf course. This means people will actually be playing golf during our wedding and walking around doing their own thing. Don’t be alarmed! However, be courteous to others and know we are all sharing this beautiful Napa venue.
 
