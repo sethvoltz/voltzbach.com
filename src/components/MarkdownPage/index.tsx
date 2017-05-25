@@ -37,9 +37,12 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
 
   render() {
     const { body, attributes, found } = this.state
+    const markdownOptions = {
+      html: true
+    }
 
     return <div className="content">
-      {found ? (body ? <Markdown source={body} /> : <div>Loading...</div>) : <NotFound />}
+      {found ? (body ? <Markdown source={body} options={markdownOptions} /> : <div>Loading...</div>) : <NotFound />}
     </div>;
   }
 
