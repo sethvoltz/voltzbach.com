@@ -4,24 +4,18 @@ title: Wedding Registries
 
 # Wedding Registries
 
-**Macys**
+[<img src="/assets/images/registry-macys.png" srcset="/assets/images/registry-macys@2x.png 2x" alt="Macy's Registry">][macys-registry]
 
-https://www.macys.com/wgl/registry/guest/6775226 
+[macys-registry]: https://www.macys.com/wgl/registry/guest/6775226
 
-**Crate and Barrel**
+[<img src="/assets/images/registry-crate.png" srcset="/assets/images/registry-crate@2x.png 2x" alt="Crate & Barrel Registry">][crate-registry]
 
-https://www.crateandbarrel.com/gift-registry/jamie-schwarzbach-and-seth-voltz/r5696409  
+[crate-registry]: https://www.crateandbarrel.com/gift-registry/jamie-schwarzbach-and-seth-voltz/r5696409
 
-**Honeyfund**
+[<img src="/assets/images/registry-honeyfund.png" srcset="/assets/images/registry-honeyfund@2x.png 2x" alt="Honeyfund Registry">][honeyfund-registry]
 
-https://www.honeyfund.com/wedding/Voltzbach  
+[honeyfund-registry]: https://www.honeyfund.com/wedding/Voltzbach
 
-
-TBD
-
-**Misc**
+## Other Ideas
 
 Ion and Gracie: https://www.etsy.com/listing/289434519/custom-cat-portrait-pet-portrait-cat?ref=market
-
-San Francisco Map, 2'x3'
-https://www.etsy.com/listing/230708096/san-francisco-map-san-francisco?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=san%20francisco%20map&ref=sr_gallery_2
