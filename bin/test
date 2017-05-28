@@ -1,0 +1,5 @@
+#!/usr/bin/env bash -e
+shopt -s globstar
+
+tsc --outDir .test --sourceMap src/**/*.spec.ts \
+  && tape .test/**/*.spec.js
