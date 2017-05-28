@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -e
+#!/bin/bash -e
 shopt -s globstar
 
 tsc --outDir .test --sourceMap src/**/*.spec.ts \
