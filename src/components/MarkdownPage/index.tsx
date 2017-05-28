@@ -52,6 +52,12 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
         if (res.status === 404) {
           throw new Error('No Content');
         }
+
+        var contentType = res.headers.get("content-type");
+        if (contentType && contentType.indexOf("text/html") !== -1) {
+          throw new Error('Incorrect file format');
+        }
+
         return res.text();
       })
       .then(content => front(content))
