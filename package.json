@@ -7,6 +7,7 @@
     "test": "bin/test",
     "start": "webpack-dev-server --hot --progress --colors",
     "build": "webpack --progress --colors -p",
+    "copy-files": "mkdir -p dist/assets && cp -r assets/images dist/assets && cp -r content dist",
     "clean": "rm -rf dist && rm -rf release"
   },
   "author": "",
