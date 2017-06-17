@@ -20,19 +20,19 @@ Sister of the Bride, met Jamie at birth, likes running, eating like a vegan, and
 
 **Patricia Bobek**
 
-BFF from UCSB, college roommates, lives in WeHo, likes biking, writing, and watching interesting & strange documentaries, fun fact: she is a cat lady who owns no cats
+Friend from UCSB, college roommates & UNR, lives in WeHo, likes biking, writing, and watching interesting & strange documentaries, fun fact: she is a cat lady who owns no cats
 
 **Rebecca Black**
 
-BFF from HS, met Jamie right before HS, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun fact: Rebecca Black is not THE Rebecca Black
+Friend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun fact: Rebecca Black is not THE Rebecca Black
 
 **Randi Hecht (Castro)**
 
-BFF from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun fact: she is married to Ariel, the groomsman
+Friend from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun fact: she is married to Ariel, the groomsman
 
 **Celia Zisman**
 
-BFF from Reno, was the first person Jamie met in Reno but didn’t start hanging out until a year later, lives in Reno, likes cooking, wine, and quality time with her friends, fun fact: she is a double masters like Jamie!
+Friend from Reno, was the first person Jamie met in Reno but didn’t start hanging out until a year later, lives in Reno, likes cooking, wine, and quality time with her friends, fun fact: she is a double masters like Jamie!
 
 ## Groomsmen
 
@@ -42,16 +42,16 @@ Brother of Groom, met Seth as birth, lives in LA, likes to draw, create awesome 
 
 **Jon Grettarson**
 
-BFF from college, met Seth early in college, lives in Redwood City, likes biking, rowing, and brewing beer, fun fact: Seth has worked with Jon at TWO different companies
+Friend from college, met Seth early in college, lives in Redwood City, likes biking, rowing, and brewing beer, fun fact: Seth has worked with Jon at TWO different companies
 
 **Ariel Castro**
 
-BFF from Reno, met Seth through Jamie/Randi (lucky!), lives in Reno, likes climbing, camping, and nerding out with friends, fun fact: Ariel is a man, not a cartoon character from the Little Mermaid
+Friend from Reno, met Seth through Jamie/Randi (lucky!), lives in Reno, likes climbing, camping, and nerding out with friends, fun fact: Ariel is a man, not a cartoon character from the Little Mermaid
 
 **Garrett Barmore**
 
-BFF from Reno, met Seth through his roommate, lives in Reno, likes museums, whiskey, and records, fun fact: he was born the wrong century, but still enjoys some modern amenities
+Friend from Reno, met Seth through his roommate, lives in Reno, likes museums, whiskey, and records, fun fact: he was born the wrong century, but still enjoys some modern amenities
 
 **Eliot Hariton**
 
-BFF from college, met Seth freshman year, lives near Cleveland, OH, likes board games and crypto currencies, fun fact: he works at NASA, so he’s basically the smartest person we know
+Friend from college, met Seth freshman year, lives near Cleveland, OH, likes board games and crypto currencies, fun fact: he works at NASA, so he’s basically the smartest person we know
