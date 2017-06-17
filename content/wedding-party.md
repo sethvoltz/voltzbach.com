@@ -16,19 +16,19 @@ Born on Martha’s Vineyard and raised in New Durham, NH. He was very computer s
 
 **Jennifer Brody**
 
-Sister of the Bride, met Jamie at birth, likes running, eating like a vegan, and traveling, fun fact: she is also a Gaucho (OLE!)
+Sister of the Bride, met Jamie at birth, likes running, eating like a vegan, and traveling, fun fact: she and Mike live down the street from Jamie and Seth & she is also a Gaucho (OLE!)
 
 **Patricia Bobek**
 
-Friend from UCSB, college roommates & UNR, lives in WeHo, likes biking, writing, and watching interesting & strange documentaries, fun fact: she is a cat lady who owns no cats
+Friend from UCSB, college roommates & UNR, lives in WeHo, likes biking, writing, and watching interesting & strange documentaries, fun fact: I spend Xmas with her family in Boise, ID & she is a cat lady who owns no cats
 
 **Rebecca Black**
 
-Friend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun fact: Rebecca Black is not THE Rebecca Black
+Friend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun fact: she owns an adorbs puppy named Oliver & she is not THE Rebecca Black
 
 **Randi Hecht (Castro)**
 
-Friend from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun fact: she is married to Ariel, the groomsman
+Friend from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun fact: she owns her own successful busines and is married to Ariel, the groomsman 
 
 **Celia Zisman**
 
@@ -38,7 +38,7 @@ Friend from Reno, was the first person Jamie met in Reno but didn’t start hang
 
 **Jed Voltz**
 
-Brother of Groom, met Seth as birth, lives in LA, likes to draw, create awesome small tree houses, and attend concerts, fun fact: Jed is tall, like super tall
+Brother of Groom, met Seth as birth, lives in LA, likes to draw, create awesome small tree houses, and attend concerts, fun fact: he is an ordained minister & is tall, like super tall
 
 **Jon Grettarson**
 
