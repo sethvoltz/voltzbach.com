@@ -15,6 +15,16 @@ body {
   background-size: cover;
   margin: 0;
   font-family: 'Raleway', sans-serif;
+
+  @media screen and (max-device-width: 1024px) {
+    background-position-x: 25%;
+  }
+  @media screen and (max-device-width: 768px) {
+    background-position-x: 22%;
+  }
+  @media screen and (max-device-width: 380px) {
+    background-position-x: 20%;
+  }
 }
 
 a {
@@ -27,12 +37,16 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 250%;
+
+  @media screen and (max-device-width: 768px) {
+    font-size: 350%;
+  }
 }
 
 h2 {
-  font-size: 200%;
+  font-size: 300%;
 }
 
 h3 {
-  font-size: 170%;
+  font-size: 270%;
 }

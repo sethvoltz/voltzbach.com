@@ -1,9 +1,17 @@
 .content {
-  padding: 10px 10px 3em;;
+  padding: 10px 10px 3em;
   background-color: rgba(0, 0, 0, 0.3);
 
+  @media screen and (max-device-width: 768px) {
+    padding: 20px 20px 6em;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
   > div {
-    max-width: 500px;
     margin: 0 auto;
+
+    @media screen and (min-device-width: 768px) {
+      max-width: 500px;
+    }
   }
 }
