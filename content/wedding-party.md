@@ -26,9 +26,9 @@ Friend from UCSB, college roommates & UNR, lives in WeHo, likes biking, writing,
 
 Friend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun facts: she owns an adorbs puppy named Oliver & she is not THE Rebecca Black
 
-**Randi Hecht (Castro)**
+**Randi Castro**
 
-Friend from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun facts: she owns her own successful business and is engaged to Ariel, the groomsman
+Friend from Reno, met Jamie at the same bar as Seth, lives in Reno, has the cutest animals ever, likes biking, dancing, and adventures around town, fun facts: she owns her own successful business and is married to Ariel, the groomsman
 
 **Celia Zisman**
 
