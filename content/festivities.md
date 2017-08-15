@@ -8,7 +8,7 @@ Welcome family & friends! We, Seth & Jamie, are planning a fabulously nerdy and 
 
 Cheers!
 
-The Voltzbach’s
+The Voltzbachs
 
 ## Stuff you should know:
 

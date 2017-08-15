@@ -18,4 +18,6 @@ title: Wedding Registries
 
 ## Other Ideas
 
-Ion and Gracie: https://www.etsy.com/listing/289434519/custom-cat-portrait-pet-portrait-cat?ref=market
+[<img src="/assets/images/etsy.png" srcset="/assets/images/etsy.png 2x" alt="Other Ideas">][otherideas-registry]
+
+[otherideas-registry]: https://www.etsy.com/listing/265439007/dog-portrait-custom-dog-portrait-custom?ref=related-4
