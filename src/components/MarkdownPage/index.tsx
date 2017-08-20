@@ -8,6 +8,10 @@ import * as Markdown from 'react-remarkable';
 
 import './index.scss';
 
+export interface IMarkdownPageProps extends RouteComponentProps<any> {
+  page?: string
+}
+
 export interface IMarkdownPageState {
   page?: string,
   found: boolean,
@@ -15,7 +19,7 @@ export interface IMarkdownPageState {
   attributes: object,
 }
 
-export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMarkdownPageState> {
+export class MarkdownPage extends React.Component<IMarkdownPageProps, IMarkdownPageState> {
   constructor(props: RouteComponentProps<any>) {
     super(props);
 
@@ -30,7 +34,7 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
   }
 
   componentDidUpdate() {
-    if (this.state.page !== this.props.match.params.page) {
+    if (this.state.page !== this.props.page) {
       this._loadData();
     }
   }
@@ -47,7 +51,7 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
   }
 
   _loadData() {
-    fetch(`/content/${this.props.match.params.page}.md`)
+    fetch(`/content/${this.props.page}.md`)
       .then(res => {
         if (res.status === 404) {
           throw new Error('No Content');
@@ -67,13 +71,13 @@ export class MarkdownPage extends React.Component<RouteComponentProps<any>, IMar
           found: true,
           attributes: parsed.attributes,
           body: parsed.body,
-          page: this.props.match.params.page
+          page: this.props.page
         });
       })
       .catch(error => {
         this.setState({
           found: false,
-          page: this.props.match.params.page,
+          page: this.props.page,
         });
       });
   }
