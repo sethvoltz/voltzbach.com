@@ -19,10 +19,14 @@
     "@types/react-router-dom": "^4.0.4",
     "front-matter": "^2.1.2",
     "node-sass": "^4.5.3",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "query-string": "^5.0.0",
+    "react": "~15.5.0",
+    "react-dom": "~15.5.0",
+    "react-images": "^0.5.5",
+    "react-measure": "^2.0.2",
+    "react-photo-gallery": "^5.6.1",
     "react-remarkable": "^1.1.1",
-    "react-router-dom": "^4.1.1"
+    "react-router-dom": "^4.1.2"
   },
   "devDependencies": {
     "@types/tape": "^4.2.30",

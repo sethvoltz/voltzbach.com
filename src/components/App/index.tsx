@@ -7,6 +7,7 @@ import { ScrollToTop } from "../ScrollToTop";
 import { Navigation } from "../Navigation";
 import { IndexPage } from "../IndexPage";
 import { MarkdownPage } from "../MarkdownPage";
+import { PhotosPage } from "../Photos";
 // import { RSVP } from "../RSVP";
 
 export interface AppProps {}
@@ -36,6 +37,7 @@ export class App extends React.Component<AppProps, undefined> {
             <div className="main">
               <Route exact={true} path="/" component={IndexPage} />
               {/* <Route path="/rsvp" component={RSVP} /> */}
+              <Route path="/photos" component={PhotosPage} />
               {CONTENT_PAGES.map(page => {
                 return <Route path={'/'+page} component={props => <MarkdownPage {...props} page={page} />} />
               })}
