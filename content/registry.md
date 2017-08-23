@@ -18,6 +18,6 @@ title: Wedding Registries
 
 ## Other Ideas
 
-[<img src="/assets/images/etsy.png" srcset="/assets/images/etsy.png 2x" alt="Other Ideas">][otherideas-registry]
+[<img src="/assets/images/etsy.png" alt="Other Ideas">][otherideas-registry]
 
 [otherideas-registry]: https://www.etsy.com/listing/265439007/dog-portrait-custom-dog-portrait-custom?ref=related-4
