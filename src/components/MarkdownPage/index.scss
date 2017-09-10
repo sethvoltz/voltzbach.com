@@ -14,4 +14,33 @@
       max-width: 500px;
     }
   }
+
+  .wedding-person {
+    margin-bottom: 2em;
+
+    img, .person-info {
+      float: left;
+    }
+
+    .person-info {
+      width: 380px;
+      padding-left: 10px;
+    }
+
+    .person-name {
+      margin-top: -.125em;
+      font-weight: bold;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    &:after {
+      // clearfix
+      content: "";
+      display: table;
+      clear: both;
+    }
+  }
 }
