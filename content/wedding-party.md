@@ -34,7 +34,7 @@ Born on Martha’s Vineyard and raised in New Durham, NH. He was very computer s
   <img src="/assets/images/party-becca.jpg" srcset="/assets/images/party-becca@2x.jpg 2x" alt="Honeyfund Registry">
   <div class="person-info">
     <div class="person-name">Rebecca Black</div>
-    <p>SFriend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun facts: she owns an adorbs puppy named Oliver and she is not THE Rebecca Black.</p>
+    <p>Friend from HS, met Jamie playing basketball, lives in Seattle (lucky!), likes churros, romantic comedies, and Justin Bieber, fun facts: she owns an adorbs puppy named Oliver and she is not THE Rebecca Black.</p>
   </div>
 </div>
 
