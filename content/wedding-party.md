@@ -67,7 +67,7 @@ Born on Martha’s Vineyard and raised in New Durham, NH. He was very computer s
 <div class="wedding-person">
   <img src="/assets/images/party-jon.jpg" srcset="/assets/images/party-jon@2x.jpg 2x" alt="Honeyfund Registry">
   <div class="person-info">
-    <div class="person-name">Jon Grettarson</div>
+    <div class="person-name">J&oacute;n Gr&eacute;tarsson</div>
     <p>Friend from college, met Seth early in college, lives in Redwood City, likes biking, rowing, and brewing beer, fun facts: Seth has worked with Jon at TWO different companies and he has Icelandic ancestry (2 degrees separated from Bjork).</p>
   </div>
 </div>
