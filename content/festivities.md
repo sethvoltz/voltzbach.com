@@ -15,24 +15,24 @@ The Voltzbachs
 ### Wedding
 
 **Sunday, May 6, 2018**  
-5-10pm  
-Fairview Napa  
-2295 Streblow Drive  
-Napa, CA 94558
+**5-10pm**  
+**Fairview Napa**  
+**2295 Streblow Drive**  
+**Napa, CA 94558**  
 
 ### Transportation
 
-Day-of, shuttles will run from the Best Western Inn to the wedding venue & back. Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
+Day of, shuttles will run from the Best Western Inn to the wedding venue & back. Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
 
 ### Ceremony
 
-Outdoors, chairs on lawn. If all goes to plan, the weather should be sunny any warm, so plan on head cover. In the event of less favorable conditions, bring layers and for rain, there is an indoor backup plan.
+Outdoors, chairs on lawn. If all goes to plan, the weather should be sunny and warm. In the event of less favorable conditions, bring layers, and for rain, there is an indoor backup plan.
 
 ### Reception
 
-Outdoors: drinks, hors d’oeuvres & lawn games.
-Indoors: photo booth, dance floor, dinner & drinks.
-Expect to eat, drink & dance throughout the night.
+Outdoors: drinks, hors d’oeuvres & lawn games
+Indoors: photo booth, dance floor, dinner & drinks
+Expect to eat, drink & dance throughout the night
 
 ### Dress Code
 
@@ -40,11 +40,15 @@ Dressy Casual, but don’t be afraid to show your inner nerd
 
 ### Guests
 
-This is a 21+ Event. Please leave the little ones in the care of someone else. Enjoy  yourself!
+This is a 21+ Event. Please leave the little ones in the care of someone else. Enjoy yourself!
 
 ### After Wedding Brunch
 
-TBD
+Monday, May 7, 2018
+10:30am-12:30pm
+Napa General Store
+540 Main St Ste 100
+Napa, CA 94559
 
 ## Be Sure to Read
 
