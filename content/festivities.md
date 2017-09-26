@@ -44,11 +44,11 @@ This is a 21+ Event. Please leave the little ones in the care of someone else. E
 
 ### After Wedding Brunch
 
-Monday, May 7, 2018
-10:30am-12:30pm
-Napa General Store
-540 Main St Ste 100
-Napa, CA 94559
+**Monday, May 7, 2018**  
+**10:30am-12:30pm**  
+**Napa General Store**  
+**540 Main St Ste 100**  
+**Napa, CA 94559**  
 
 ## Be Sure to Read
 
