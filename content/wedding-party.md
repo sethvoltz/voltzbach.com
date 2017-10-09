@@ -60,7 +60,7 @@ Born on Martha’s Vineyard and raised in New Durham, NH. He was very computer s
   <img src="/assets/images/party-jed.jpg" srcset="/assets/images/party-jed@2x.jpg 2x" alt="Honeyfund Registry">
   <div class="person-info">
     <div class="person-name">Jed Voltz</div>
-    <p>Brother of Groom, met Seth at birth, lives in LA, likes to draw, create awesome small tree houses, and attend concerts, fun facts: he is an ordained minister&and is tall, like super tall.</p>
+    <p>Brother of Groom, met Seth at birth, lives in LA, likes to draw, create awesome small tree houses, and attend concerts, fun facts: he is an ordained minister & and is tall, like super tall.</p>
   </div>
 </div>
 
