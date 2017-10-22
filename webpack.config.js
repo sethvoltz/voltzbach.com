@@ -1,14 +1,15 @@
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: "./src/index.tsx",
+  entry: ["whatwg-fetch", "./src/index.tsx"],
   output: {
     filename: "bundle.js",
     path: __dirname + "/dist"
   },
 
   devServer: {
-    historyApiFallback: true
+    historyApiFallback: true,
+    disableHostCheck: true
   },
 
   // Enable sourcemaps for debugging webpack's output.
