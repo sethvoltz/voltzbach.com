@@ -4,6 +4,8 @@ title: Wedding Party
 
 # Wedding Party
 
+<img src="/assets/images/party-jamie-seth.jpg" srcset="/assets/images/party-jamie-seth@2x.jpg 2x" alt="Jamie and Seth">
+
 ## Jamie Schwarzbach, Bride
 
 Grew up in Northridge, CA, where she excelled in chemistry and sports (what a great combo, huh?). She decided to attend UCSB because of her partial track and field scholarship, in Santa Barbara, where she graduated with her BS in chemistry. She then attended graduate school at the University of Nevada Reno, studying organic chemistry. She enjoyed joining the Nevada Cycling Team, where she competed in mountain biking. All the while, she graduated with her MS in chemistry and MBA. After moving to SF with her soon to be hubby, she’s mainly worked in life sciences companies focusing on marketing and project management. Her favorite things: Snowboarding, biking, yoga, her two cats, looking at expensive real estate online, and anything with chocolate.
