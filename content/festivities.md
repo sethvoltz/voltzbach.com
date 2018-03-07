@@ -20,9 +20,31 @@ The Voltzbachs
 **2295 Streblow Drive**  
 **Napa, CA 94558**  
 
+### After Wedding Brunch
+
+**Monday, May 7, 2018**  
+**10:30am-12:30pm**  
+**Napa General Store**  
+**540 Main St Ste 100**  
+**Napa, CA 94559**  
+
+### After Wedding Drinks
+**Sunday, May 6, 2018**
+**10:00pm until ?**
+**Downtown Napa, TBD**
+
 ### Transportation
 
-Day of, shuttles will run from the Best Western Inn to the wedding venue & back. Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
+**Shuttle Schedule**    
+4:00pm, Shuttle's beging picking up at the following locations:   
+1) Best Western Inn at the Vines, 100 Soscol Ave  
+2) Fuller Park, 560 Jefferson St  
+
+9:30pm, Shuttles beging dropping off at the following locations:    
+1) Best Western Inn at the Vines, 100 Soscol Ave   
+2) Fuller Park, 560 Jefferson St    
+
+Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
 
 ### Ceremony
 
@@ -30,8 +52,8 @@ Outdoors, chairs on lawn. If all goes to plan, the weather should be sunny and w
 
 ### Reception
 
-Outdoors: drinks, hors d’oeuvres & lawn games
-Indoors: photo booth, dance floor, dinner & drinks
+Outdoors: lawn games
+Indoors: photo booth, dance floor, cocktail hour, dinner & drinks
 Expect to eat, drink & dance throughout the night
 
 ### Dress Code
@@ -41,14 +63,6 @@ Dressy Casual, but don’t be afraid to show your inner nerd
 ### Guests
 
 This is a 21+ Event. Please leave the little ones in the care of someone else. Enjoy yourself!
-
-### After Wedding Brunch
-
-**Monday, May 7, 2018**  
-**10:30am-12:30pm**  
-**Napa General Store**  
-**540 Main St Ste 100**  
-**Napa, CA 94559**  
 
 ## Be Sure to Read
 
