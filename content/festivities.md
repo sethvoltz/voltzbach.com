@@ -29,13 +29,13 @@ The Voltzbachs
 **Napa, CA 94559**  
 
 ### After Wedding Drinks
-**Sunday, May 6, 2018**
-**10:00pm until ?**
-**Downtown Napa, TBD**
+**Sunday, May 6, 2018**  
+**10:00pm until ?**  
+**Downtown Napa, TBD**  
 
 ### Transportation
 
-**Shuttle Schedule**    
+**Shuttle Schedule for May 6, 2018**    
 4:00pm, Shuttle's beging picking up at the following locations:   
 1) Best Western Inn at the Vines, 100 Soscol Ave  
 2) Fuller Park, 560 Jefferson St  
