@@ -30,8 +30,10 @@ The Voltzbachs
 
 ### After Wedding Drinks
 **Sunday, May 6, 2018**  
-**10:00pm until ?**  
-**Downtown Napa, TBD**  
+**10:00pm until midnight**  
+**Mercantile Social**  
+**1450 1st St**    
+**Napa, CA 94559**  
 
 ### Transportation
 
