@@ -1,0 +1,42 @@
+version: 2
+
+jobs:
+  build:
+    working_directory: ~/app
+    docker:
+      - image: arbornetworks-docker-public-docker.bintray.io/circleci-node-aws:8.4.0
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: Install app dependencies
+          command: yarn install --frozen-lockfile
+      - run:
+          name: Build production app
+          command: yarn build
+      - run:
+          name: Copy files to correct location
+          command: yarn run copy-files
+      - run:
+          name: Deploy to production
+          command: aws s3 sync dist/ s3://voltzbach.com/
+      - run:
+          name: Invalidate cache
+          command: |
+            aws configure set preview.cloudfront true
+            aws --region us-west-2 cloudfront create-invalidation --distribution-id E2PKXC4ZNW7TVW --paths '/*'
+      - save_cache:
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+          paths:
+            - node_modules
+
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - master
