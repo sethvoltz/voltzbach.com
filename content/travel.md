@@ -36,14 +36,24 @@ Napa, California 94559
 
 [Booking Link](http://book.bestwestern.com/bestwestern/groupSearch.do?groupId=7A6VN5Q3&propertyId=05371)
 
+**Best Western Elm House Inn**
+
+This Best Western hotel is downtown, close to all of the restaurants and bars. We recommend those who are interested in going out after the wedding to stay downtown.
+800 California Blvd  
+Napa, CA 94559  
+
+[Booking Link](https://www.bestwestern.com/en_US/book/hotel-details.05572.html)
+
+**Hampton Inn & Suites at Napa**
+
+This hotel is across from the main hotel, Best Western Plus Inn at the Vines. 
+945 Hartle Court  
+Napa, California, 94559   
+
+[Booking Link](http://hamptoninn3.hilton.com/en/hotels/california/hampton-inn-and-suites-napa-APCIGHX/index.html)
+
 **Bnb or Airbnb**
 
 There are several great bed and breakfasts around the town, as well as great places to stay using Airbnb.
 [Napa Bed and Breakfast](https://www.bedandbreakfast.com/napa-california.html)
 [Napa Airbnb](https://www.airbnb.com/s/Napa--CA/homes)
-
-**Best Western Elm House Inn**
-
-This Best Western hotel is downtown, close to all of the restaurants and bars. We recommend those who are interested in going out after the wedding to stay downtown.
-
-[Booking Link](https://www.bestwestern.com/en_US/book/hotel-details.05572.html)
