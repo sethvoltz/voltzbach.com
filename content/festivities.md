@@ -20,33 +20,33 @@ The Voltzbachs
 **2295 Streblow Drive**  
 **Napa, CA 94558**  
 
+### After Wedding Drinks
+**Sunday, May 6, 2018**  
+**10:00pm until midnight**  
+**Mercantile Social @ Andaz Hotel**  
+**1450 1st St**    
+**Napa, CA 94559**  
+
 ### After Wedding Brunch
 
 **Monday, May 7, 2018**  
 **10:30am-12:30pm**  
 **Napa General Store**  
 **540 Main St Ste 100**  
-**Napa, CA 94559**  
-
-### After Wedding Drinks
-**Sunday, May 6, 2018**  
-**10:00pm until midnight**  
-**Mercantile Social**  
-**1450 1st St**    
-**Napa, CA 94559**  
+**Napa, CA 94559**    
 
 ### Transportation
 
 **Shuttle Schedule for May 6, 2018**    
 4:00pm, Shuttle's beging picking up at the following locations:   
 1) Best Western Inn at the Vines, 100 Soscol Ave  
-2) Fuller Park, 560 Jefferson St  
+2) Downtown Napa (Fuller Park), 560 Jefferson St  
 
 9:30pm, Shuttles beging dropping off at the following locations:    
 1) Best Western Inn at the Vines, 100 Soscol Ave   
-2) Fuller Park, 560 Jefferson St    
+2) Downtown Napa (Andaz Hotel)      
 
-Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, as there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
+Alternatively, you can take Uber, Lyft and Taxis. Also, you may drive, since there is a huge parking lot. However, there will be unlimited wine and beer at the reception, so please drive responsibly.
 
 ### Ceremony
 
@@ -60,7 +60,7 @@ Expect to eat, drink & dance throughout the night
 
 ### Dress Code
 
-Dressy Casual, but don’t be afraid to show your inner nerd
+Dressy Casual or Cocktail Attire, but don’t be afraid to show your inner nerd
 
 ### Guests
 
