@@ -16,7 +16,7 @@ jobs:
           name: Build production app
           command: yarn build
       - run:
-          name: Copy files to correct location
+          name: Move files to their new homes
           command: yarn run copy-files
       - run:
           name: Deploy to production
